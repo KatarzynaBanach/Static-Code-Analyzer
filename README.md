@@ -14,4 +14,4 @@ Technologies used:
 - python
 - libraries: **_ast, re, argparse, pathlib_**
 
-Created while doing a course 'Python Core' on hyperskill.org, based on general schema and guidelines provided by course author (but solutions designed on my own). During this challenging got familiar with ast and pathlib library, and mastered my re library skills.  
+Created while doing a course 'Python Core' on hyperskill.org, based on general schema and guidelines provided by course author (but solutions designed on my own). During this challenge I got familiar with ast and pathlib library, and mastered my re library skills.  
