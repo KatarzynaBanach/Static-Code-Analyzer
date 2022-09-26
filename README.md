@@ -1,6 +1,6 @@
 ## Static Code Analyzer
 
-It is a simple static analyzer tool that finds common stylistic issues in Python code such as:
+It is a simple static analyzer tool that finds common stylistic issues in Python code (in given file or directory) such as:
 - Indentation is not a multiple of four
 - Unnecessary semicolon after a statement
 - Less than two spaces before inline comments
